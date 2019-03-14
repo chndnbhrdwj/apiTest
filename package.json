@@ -1,0 +1,17 @@
+{
+    "name": "apijs",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "node-modules/mocha/bin/mocha src/*.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "chai": "^4.2.0",
+        "mocha": "^6.0.2",
+        "request": "^2.88.0",
+        "sync-request": "^6.0.0"
+    }
+}
